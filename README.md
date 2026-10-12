@@ -1,8 +1,8 @@
+**English** | [简体中文](README.zh-CN.md)
+
 # From Extensible Templates to Composable Rules: My D3.0 Architecture Experiment
 
 *An unfinished attempt to change how a system responds to constantly changing requirements, rather than adding another special-purpose template every time.*
-
-[简体中文](README.zh-CN.md)
 
 ## 01 | The problem was never just one trading strategy
 
